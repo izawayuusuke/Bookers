@@ -20,14 +20,26 @@
   box-sizing:border-box;
 }
 
+#notice {
+  color: #008000;
+}
+
 body {
   font-size: 13px;
+  color: #333333;
   line-height: 18px;
   margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
 }
 
 h1 {
-  margin: 33px 0;
+  margin: 17px 0;
+  font-size:26px;
+}
+
+h2 {
+  margin: 16px 0;
+  font-size: 19px;
 }
 
 p {
